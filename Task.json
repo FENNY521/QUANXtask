@@ -217,5 +217,13 @@
         "0 1 * * * https://gitee.com/passerby-b/javascript/raw/master/unipay.js, tag=云闪付 , img-url=https://raw.githubusercontent.com/Orz-3/task/master/unipay.png", 
         "0 1-16 10 5,9,10,11,12 * * https://raw.githubusercontent.com/ziye12/JavaScript/master/flwhbziye.js, tag=返利网 ,img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/Z012.png",
         "*/11 * * * * https://raw.githubusercontent.com/ziye12/JavaScript/master/qqread.js, tag=企鹅读书 ,img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/Z012.png",
+        "10 * * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_dreamFactory.js, tag=京喜工厂 ,img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png",
+        "16 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_small_home.js, tag=东东小窝 ,img-url=https://raw.githubusercontent.com/58xinian/icon/master/ddxw.png",
+        "10 * * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_jdfactory.js, tag=东东工厂 ,img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png",
+        "10 0,20 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_necklace.js, tag=点点券 ,img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png",
+        "10 7 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_syj.js, tag=十元街 ,img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_syj.png",
+        "10 * * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_daily_egg.js, tag=天天提额 ,img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png",
+        "10 * * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_pigPet.js, tag=养猪 ,img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png",
+        "11 1 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js, tag=京东抽奖机 ,img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png", 
     ]
 }   
