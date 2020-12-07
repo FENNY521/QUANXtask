@@ -166,7 +166,5 @@
         "5 0 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_checkin.js, tag=什么值得买每日签到, img-url=https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/img/dragonball/25.PNG",
         "0 1 * * * https://gitee.com/passerby-b/javascript/raw/master/unipay.js, tag=云闪付, img-url=https://raw.githubusercontent.com/Orz-3/task/master/unipay.png, enabled=true" 
         "0 1-16 10 5,9,10,11,12 * * https://raw.githubusercontent.com/ziye12/JavaScript/master/flwhbziye.js, tag=返利网, enabled=true"
-   
-   
    ]
 }
