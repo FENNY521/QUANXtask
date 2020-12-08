@@ -110,5 +110,6 @@
         "10 * * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_pigPet.js, tag=养猪 ,img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png",
         "11 1 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js, tag=京东抽奖机 ,img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png", 
         "0 9 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jdzz.js, tag=京东赚赚 ,img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdzz.png",
+        "0 * * * * https://raw.githubusercontent.com/MoPoQAQ/Script/main/Me/jx_cfd.js, tag=京喜财富岛 ,img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png",
     ]
 }   
