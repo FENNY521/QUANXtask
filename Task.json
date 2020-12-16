@@ -122,6 +122,7 @@
         "45 10 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_kd.js, tag=京东快递签到 ,img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_kd.png",
         "13 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_apple_live.js, tag=苹果抽奖机 ,img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_lotteryMachine.png",
         "14 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_pubg.js, tag=PUBG , img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png",
-        "10-20/5 12 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_live.js, tag=京东直播, img-url= https://raw.githubusercontent.com/58xinian/icon/master/jd_live_redrain.png",
+        "10-20/5 12 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_live.js, tag=京东直播 ,img-url= https://raw.githubusercontent.com/58xinian/icon/master/jd_live_redrain.png",
+        "10 8 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_jdh.js, tag=京东健康 ,img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png",
     ]
 }   
