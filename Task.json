@@ -131,5 +131,6 @@
         "0 5-23 * * * https://cdn.jsdelivr.net/gh/songyangzz/QuantumultX@master/YOUTH_READ.js, tag=中青自动阅读 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/YOUTH_READ.png",
         "20 5 10 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth_gain.js, tag=中青浏览赚 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/youth_gain.png",
         "*/10 6-23 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/AutoRead.js, tag=葱花视频 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/AutoRead.png",
+        "55 23 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_unbind.js, tag=注销京东会员卡 ,img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/Z012.png",
     ]
 }   
