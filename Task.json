@@ -134,5 +134,6 @@
         "55 23 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_unbind.js, tag=注销京东会员卡 ,img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/Z012.png",
         "15 7 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_crazy_joy.js, tag=crazyJoy任务 ,img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/crazyjoy.png",
         "16 7 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_crazy_joy_coin.js, tag=crazyJoy挂机 ,img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/crazyjoy.png",
+        "0 10 0 * * * https://raw.githubusercontent.com/smiles-seaside/Quantumult-X/main/ttwbxcxSign.js, tag=天天挖矿小程序 ,img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/Z012.png",
     ]
 }   
