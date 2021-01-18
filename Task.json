@@ -140,7 +140,7 @@
         "0 2 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_cash.js, tag=签到领现金 ,img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/Z012.png",
         "1 * * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_family.js, tag=京东家庭号 ,img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_family.png", 
         "1 7 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_nh.js, tag=京东年货节 ,img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
-        "0 8,9,10 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_nian.js, tag=京东炸年兽🧨 ,img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png",
-        "20 * * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_nianCollect.js, tag=京东收🧨 ,img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png",
+        "0 8,9,10 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_nian.js, tag=京东炸年兽 ,img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png",
+        "20 * * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_nianCollect.js, tag=京东收爆竹 ,img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png",
     ]
 }
