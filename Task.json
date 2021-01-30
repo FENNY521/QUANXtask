@@ -132,6 +132,7 @@
         "0 6-23 * * * https://cdn.jsdelivr.net/gh/songyangzz/QuantumultX@master/YOUTH_READ.js, tag=中青看点自动阅读 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/YOUTH_READ.png",
         "20 5 10 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth_gain.js, tag=中青看点浏览赚 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/youth_gain.png",
         "20 8 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_immortal_answer.js, tag=京东神仙书院答题 , img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
-        "0 0 * * * https://raw.githubusercontent.com/shylocks/Loon/main/jd_coupon.js, tag=源头好物红包 , img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/shylocks/jd_coupon.jpg",
+        "0 0 * * * https://raw.githubusercontent.com/shylocks/Loon/main/jd_coupon.js, tag=源头好物红包 ,img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/shylocks/jd_coupon.jpg",
+        "0 0,6,12,18 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_5g.js, tag=5G狂欢城 ,img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
     ]
 }
