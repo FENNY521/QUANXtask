@@ -134,5 +134,6 @@
         "20 8 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_immortal_answer.js, tag=京东神仙书院答题 ,img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
         "0 0 * * * https://raw.githubusercontent.com/shylocks/Loon/main/jd_coupon.js, tag=源头好物红包 ,img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/shylocks/jd_coupon.jpg",
         "0 0,6,12,18 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_5g.js, tag=5G狂欢城 ,img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
+        "*/5 * * * * https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpayZB.js, tag=笑谱, img-url=https://qxzy.top/rules/QuantumultX/img/xp.png",
     ]
 }
