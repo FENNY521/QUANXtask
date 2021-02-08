@@ -131,7 +131,6 @@
         "10 7 * * * https://qxzy.top/rules/QuantumultX/js/jd_crazy_joy_coin.js, tag=crazyJoy挂机, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
         "10 7 * * * https://qxzy.top/rules/QuantumultX/js/jd_crazy_joy.js, tag=crazyJoy任务, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png",
         "20 7 * * * https://qxzy.top/rules/QuantumultX/js/jd_super_box.js, tag=京东超级盒子, img-url=https://qxzy.top/rules/QuantumultX/img/jd_super_box.png",
-        "7 7 * * * https://raw.githubusercontent.com/xingliuchao/jx/shylocks/jd_sx.js, tag=海产新年抽奖, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/shylocks/jd_wechat_sign.jpg",
         "1 1 * * * https://qxzy.top/rules/QuantumultX/js/jd_redPacket.js, tag=京东全民开红包, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png",
         "10 * * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jd_zjd_tuan.js, tag=京东赚京东开团, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_syj.png",
         "10 7 * * * https://raw.githubusercontent.com/sngxpro/delete/main/s/jd_sx.js, tag=海产新年抽奖, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/shylocks/jd_wechat_sign.jpg",
