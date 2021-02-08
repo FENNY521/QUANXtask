@@ -126,7 +126,7 @@
         "15 10 * * * https://raw.githubusercontent.com/age174/-/main/ymz.js, tag=羊毛赚, img-url=https://s3.ax1x.com/2021/02/06/yYzYWR.png",
         "0,30 * * * * https://raw.githubusercontent.com/adwktt/adwktt/master/BBB.js, tag=步步宝,, img-url=https://qxzy.top/rules/QuantumultX/img/bbb.png:,
         "*/10 * * * * https://raw.githubusercontent.com/age174/-/main/dkd.js, tag=多看点, img-url=https://gitee.com/ydj0602/hym/raw/img/DKD.png",
-        "5 9,16,21 * * * https://raw.githubusercontent.com/age174/-/main/dkdsp.js, tag=多看点视频, img-url= https://gitee.com/ydj0602/hym/raw/img/DKD.png",
+        "5 9,16,21 * * * https://raw.githubusercontent.com/age174/-/main/dkdsp.js, tag=多看点视频, img-url=https://gitee.com/ydj0602/hym/raw/img/DKD.png",
         "0 */20 * * * * https://raw.githubusercontent.com/ZhiYi-N/script/master/kkd.js, tag=快看点, img-url=https://qxzy.top/rules/QuantumultX/img/kkd.png",
         "10 7 * * * https://qxzy.top/rules/QuantumultX/js/jd_crazy_joy_coin.js, tag=crazyJoy挂机, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
         "10 7 * * * https://qxzy.top/rules/QuantumultX/js/jd_crazy_joy.js, tag=crazyJoy任务, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png",
