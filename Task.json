@@ -105,7 +105,7 @@
         "5 0 19,20 1 * https://raw.githubusercontent.com/sngxpro/delete/main/s/jd_vote.js, tag=京年团圆pick ,img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_vote.png",
         "10 0 * * * https://raw.githubusercontent.com/sngxpro/delete/main/s/jd_wechat_sign.js, tag=京东粉丝专享, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/shylocks/jd_wechat_sign.jpg, tag=京东粉丝专享 ,img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_wechat_sign.png",
         "5 7 * * * https://raw.githubusercontent.com/sngxpro/delete/main/s/jd_xg.js, tag=小鸽有礼 ,img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_xg.png",
-        0 * * * * https://raw.githubusercontent.com/sngxpro/delete/main/s/jd_xxl.js, tag=东东爱消除 ,img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_xxl.png",
+        "0 * * * * https://raw.githubusercontent.com/sngxpro/delete/main/s/jd_xxl.js, tag=东东爱消除 ,img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_xxl.png",
         "40 * * * * https://raw.githubusercontent.com/sngxpro/delete/main/s/jd_xxl_gh.js, tag=个护爱消除 ,img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_xxl_gh.png",
         "*/10 6-23 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js, tag=中青看点极速版 ,img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/youth.png",
         "0 6-23 * * * https://cdn.jsdelivr.net/gh/songyangzz/QuantumultX@master/YOUTH_READ.js, tag=中青看点自动阅读 ,img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/YOUTH_READ.png",
