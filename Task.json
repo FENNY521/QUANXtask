@@ -153,6 +153,7 @@
         "10 10,11 * * 2-5 https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_entertainment.js, tag=百变大咖秀, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
         "3 10 17-28 2 * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_walmart.js, tag=沃尔玛互动（点查看脚本看说明）,  img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
         "10 0 * * *   https://raw.githubusercontent.com/i-chenzhe/qx/master/jd_xmf.js, tag= 京东小魔方ichenzhe, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
+        "3 10 * * * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_fanslove.js, tag=粉丝互动, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
         
 
     ]
