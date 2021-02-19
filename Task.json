@@ -38,8 +38,8 @@
         "11 1 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js, tag=京东抽奖机 ,img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/Z012.png",
         "11 9 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_rankingList.js, tag=京东排行榜 ,img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/Z012.png",
         "0 1 * * * https://gitee.com/passerby-b/javascript/raw/master/unipay.js, tag=云闪付 , img-url=https://raw.githubusercontent.com/Orz-3/task/master/unipay.png", 
-        "0 1-16 10 5,9,10,11,12 * * https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/flw.js, tag=返利网 ,img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/Z012.png",
-        "*/11 * * * * https://raw.githubusercontent.com/ziye12/JavaScript/master/Task/qqreadnode.js, tag=企鹅读书 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/qqreads.png",
+        "0 1-16 10 5,9,10,11,12 * * https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/flw.js, tag=返利网 ,img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/Z012.png",
+        "*/11 * * * * https://raw.githubusercontent.com/ziye66666/JavaScript/master/Task/qqreadnode.js, tag=企鹅读书 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/qqreads.png",
         "30 */1 * * * https://raw.githubusercontent.com/CenBoMin/QuantumultX/master/Scripts/Youth/Youth_AutoRead.js, tag=中青极速版自动阅读, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png",
         "10 9 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jddj.js, tag=京东到家 ,img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jddj.png",
         "10 9 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jingxi.js, tag=京喜 ,img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jingxi.png",
@@ -113,7 +113,7 @@
         "20 8 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_immortal_answer.js, tag=京东神仙书院答题 ,img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
         "0 0 * * * https://raw.githubusercontent.com/sngxpro/delete/main/s/jd_coupon.js, tag=源头好物红包 ,img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/shylocks/jd_coupon.jpg",
         "0 0,6,12,18 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_5g.js, tag=5G狂欢城 ,img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
-        "*/5 8-23 * * * https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.js, tag=笑谱直播, img-url=https://qxzy.top/rules/QuantumultX/img/xp.png",
+        "*/5 8-23 * * * https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/iboxpay.js, tag=笑谱直播, img-url=https://qxzy.top/rules/QuantumultX/img/xp.png",
         "30 7 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_xgyl.js, tag=小鸽有礼2 ,img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_xgyl.png",
         "20 8,12 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_newYearMoney.js, tag=京东压岁钱, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
         "0 0 9,12,16,20 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_newYearMoney_lottery.js, tag=京东压岁钱抢百元卡, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
@@ -133,6 +133,7 @@
         "20 7 * * * https://qxzy.top/rules/QuantumultX/js/jd_super_box.js, tag=京东超级盒子, img-url=https://qxzy.top/rules/QuantumultX/img/jd_super_box.png",
         "1 1 * * * https://qxzy.top/rules/QuantumultX/js/jd_redPacket.js, tag=京东全民开红包, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png",
         "10 * * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jd_zjd_tuan.js, tag=京东赚京东开团, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_syj.png",
+        "30 18 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jd_zjd.js, tag=半自动领京豆, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_syj.png",
         "10 7 * * * https://raw.githubusercontent.com/sngxpro/delete/main/s/jd_sx.js, tag=海产新年抽奖, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/shylocks/jd_wechat_sign.jpg",
         "15 0 * * * https://raw.githubusercontent.com/sngxpro/delete/main/s/jd_festival.js, tag=京东手机年终奖, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/shylocks/jd_festival2.jpg",
         "11 9 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_rankingList.js, tag=京东排行榜, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png",
@@ -140,8 +141,18 @@
         "1 0 * * * https://raw.githubusercontent.com/xingliuchao/jd/main/jd_sgmh.js, tag=闪购盲盒, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_wechat_sign.png",
         "0 9,12,20,21 2-22 2 * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_global.js, tag=环球挑战赛, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/jd_global.png",
         "0 9,12,20,21 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_global_mh.js, tag=京东国际盲盒, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/jd_global_mh.png",
-        
-        
+        "0 7 19-25 2 * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nzmh.js, tag=女装盲盒, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
+        "*/10 * * * * https://raw.githubusercontent.com/age174/-/main/sz.js, tag=闪挣, img-url=https://ae01.alicdn.com/kf/U0eeed99dbe9a4cf99b73aaed7902a3a9z.jpg",
+        "*/15 * * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/RUNSTEP/runstep.js, tag=走路赚点钱, img-url=https://gitee.com/ydj0602/hym/raw/img/ZLZQ1.png",
+        " 0 0 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/RUNSTEP/cash.js, tag=Withdrawal, img-url=https://gitee.com/ydj0602/hym/raw/img/ZLZQ1.png",
+        " 15,45 10-22 * * * https://raw.githubusercontent.com/age174/-/main/wnb.js, tag=蜗牛吧, img-url=https://ftp.bmp.ovh/imgs/2021/02/221a7d94eaa0dddf.jpeg",
+        " 1,30 10-20 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/ranlv.js, tag=燃旅视频, img-url=https://raw.githubusercontent.com/Se7eNcBoT/MyXP/master/Icons/ZhiYi/ranlv_144x.png",
+        " 15 0 * * * https://raw.githubusercontent.com/age174/-/main/jqb.js, tag=金钱豹, img-url=https://ftp.bmp.ovh/imgs/2021/02/9e6d449acb9b6889.png",
+        " 15 10 * * * https://raw.githubusercontent.com/age174/-/main/mhdsp.js, tag=陌嗨短视频, img-url= https://gitee.com/ydj0602/hym/raw/img/MHDSP.png",
+        "1 * * * * https://raw.githubusercontent.com/age174/-/main/baosxq.js, tag=宝石星球(查看脚本有用法), img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/mona.png",
+        "10 10,11 * * 2-5 https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_entertainment.js, tag=百变大咖秀, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
+        "3 10 17-28 2 * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_walmart.js, tag=沃尔玛互动（点查看脚本看说明）,  img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
+        "10 0 * * *   https://raw.githubusercontent.com/i-chenzhe/qx/master/jd_xmf.js, tag= 京东小魔方ichenzhe, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
         
 
     ]
