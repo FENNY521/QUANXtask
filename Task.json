@@ -158,7 +158,7 @@
         "0 7 * * * https://raw.githubusercontent.com/xingliuchao/jd/cp-jd/jd_speed_sign.js, tag=京东极速版, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
         "0 0 * * * https://raw.githubusercontent.com/xingliuchao/jd/cp-jd/jd_speed_redpocke.js, tag=京东极速版天天领红包, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
         "0 8,21 1-8/1 3 * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_firecrackers.js, tag=她的节享京豆, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png",
-        "0,30 0-23 * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/yuedongzu.js, tag=悦动族, img-url=https://raw.githubusercontent.com/ziye11/JavaScript/blob/main/Task/yuedongzu.png
+        "0,30 0-23 * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/yuedongzu.js, tag=悦动族, img-url=https://raw.githubusercontent.com/ziye11/JavaScript/blob/main/Task/yuedongzu.png",
 
     ]
 }
